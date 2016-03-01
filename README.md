@@ -1,2 +1,2 @@
-# robotics_camp
+# Robotics Camp
 Robotics Camp using the Parallax Boe-Bot.
