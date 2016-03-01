@@ -48,7 +48,7 @@ DO
   ' we set the stepper motor to move slower.
 
   ' If the object we are following veers right or left, our sensors will detect
-  ' see that and will adjust the speeds of the motors to compensate.
+  ' that and will adjust the speeds of the motors to compensate.
 
   ' Calculate proportional output.
   pulseLeft =  SetPoint - distanceLeft  * Kpl + CenterPulse
